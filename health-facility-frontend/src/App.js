@@ -1,7 +1,7 @@
 import React from 'react';
 import LoginForm from './components/LoginForm';
 import RegisterForm from './components/RegisterForm';
-import ConsultatiionList from './components/ConsultationList';
+import ConsultatiionList from './components/Consultation';
 import './App.css'; // Ensure the CSS is imported correctly
 
 function App() {
